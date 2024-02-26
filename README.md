@@ -37,7 +37,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/V7UvoDs" data-context="false" ><a href="//imgur.com/a/V7UvoDs"></a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/V7UvoDs" data-context="false" ><a href="//imgur.com/a/V7UvoDs"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF created with **Kap**
 
