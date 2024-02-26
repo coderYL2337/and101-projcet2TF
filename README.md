@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-demoAndroidKotlinDebug.gif
+<img src='demoAndroidKotlinDebug.gif' title='demoAndroidKotlinDebug' width='' alt='Video Walkthrough' />
 
 
 GIF created with **Kap**
